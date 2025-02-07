@@ -1,0 +1,5 @@
+0 PENDRIVE
+1 APONTADOR
+2 CANETA
+3 memorycard
+4 bocal
